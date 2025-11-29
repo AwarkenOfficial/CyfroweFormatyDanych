@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportList>
+
+    <transport type="car" usage="daily">
+        <brand>Subaru</brand>
+        <model>Impreza WRX STI</model>
+        <fuel>Petrol</fuel>
+        <averageSpeed>80</averageSpeed>
+    </transport>
+
+    <transport type="bus" usage="public">
+        <line>152</line>
+        <operator>MPK Kraków</operator>
+        <ticketType>Monthly</ticketType>
+        <averageSpeed>40</averageSpeed>
+    </transport>
+
+    <transport type="bike" usage="seasonal">
+        <brand>Kross</brand>
+        <model>Hexagon</model>
+        <gearCount>21</gearCount>
+        <averageSpeed>25</averageSpeed>
+    </transport>
+
+</transportList>

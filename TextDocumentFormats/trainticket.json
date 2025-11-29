@@ -1,0 +1,16 @@
+{
+  "passengerName": "Kacper Nowak",
+  "trainNumber": "IC 3520",
+  "from": "Kraków Główny",
+  "to": "Warszawa Centralna",
+  "departureTime": "2025-04-12T08:15",
+  "arrivalTime": "2025-04-12T11:27",
+  "seat": {
+    "car": 6,
+    "seatNumber": 14,
+    "class": "2nd"
+  },
+  "pricePLN": 89.99,
+  "isReturnTicket": false,
+  "servicesIncluded": ["WiFi", "Power socket", "Air conditioning"]
+}
